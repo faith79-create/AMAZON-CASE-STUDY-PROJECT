@@ -3,6 +3,7 @@
 A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at the DSA Incubator Hub, this project uses pivot tables, slicers, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue.
 
 🔍 Objective: Analyze Amazon product and review data to derive business insights using pivot tables, slicers, calculated columns, and data visualizations.
+--------
 
 ## Table of Contents
 
@@ -11,7 +12,8 @@ A detailed Excel-based analytics project on Amazon product reviews, discounts, a
 -  [Key Analytical Tasks & Solutions](#key-analytical-tasks-solutions)
 -  [Key Highlights/Summary](#key-highlights-summary)
 -  [About Me](#about-me)
--  [Contact]
+-  [Contact](#contact)
+-----------------------
 
 ### 🏢 Project Context
 
@@ -21,7 +23,9 @@ Industry: E-commerce Analytics
 
 Role: Junior Data Analyst
 
-Tools Used: Microsoft Excel, Data Cleaning [Download here](https://microsoft.com) Pivot Tables, Charts, Slicers,
+🔧 Tools Used: Microsoft Excel, Data Cleaning [Download here](https://microsoft.com) 
+    Pivot Tables, Charts, & Slicers.
+------
 
 ### 🧾 Dataset Description
 
@@ -38,6 +42,7 @@ Tools Used: Microsoft Excel, Data Cleaning [Download here](https://microsoft.com
   -  Number of Ratings (Rating Count)
   -  Review content (aggregated in some columns)
   -  Revenue potential fields (derived)
+  -------
 
   ### 📊 Key Analytical Tasks & Solutions
   
@@ -57,6 +62,7 @@ Tools Used: Microsoft Excel, Data Cleaning [Download here](https://microsoft.com
  | 12 |	How many products have fewer than 1,000 reviews?	                     |   COUNTIF Formula + Bar Chart                    |
  | 13 |	Categories with highest average discount?                              |   Sorted Pivot Table by Discount%                |
  | 14 |	Top 5 products by combined review count and rating	                   |  Ranking logic using SUM(Rating × ReviewCount)   |
+ -------------
 
  ### 🧠 Key Highlights/Summary
 
@@ -65,12 +71,13 @@ Tools Used: Microsoft Excel, Data Cleaning [Download here](https://microsoft.com
 - Revenue Optimization: Focus marketing efforts on mid-priced, highly rated products in "Home Kitchen" and "Accessories".
 - Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
 - Fastest Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
+-----
 
   ### 👨‍💻 About Me
-### **Faith Udokanma Ihueze** 
-🎓 B.SC Accounting 
- 📊 Data Analyst I’m passionate about simplifying data into impactful
- visuals and helping businesses make better decisions. This project is a reflection of my journey in the DSA Incubator Hub on Excel-based analysis.
+ **Faith Udokanma Ihueze**  🎓 B.SC Accounting, 📊 Data Analyst,
+  I’m passionate about simplifying data into impactful
+  visuals and helping businesses make better decisions. 
+  This project is a reflection of my journey in the DSA Incubator Hub on Excel-based analysis.
 
 ### 📫 Contact
 
