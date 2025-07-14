@@ -74,13 +74,13 @@ Role: Junior Data Analyst
 -----
 
   ### 👨‍💻 About Me
- **Faith Udokanma Ihueze**  🎓 B.SC Accounting, 📊 Data Analyst,
-  I’m passionate about simplifying data into impactful
-  visuals and helping businesses make better decisions. 
-  This project is a reflection of my journey in the DSA Incubator Hub on Excel-based analysis.
+ ***Faith Udokanma Ihueze***  
+  ##### 🎓 B.SC Accounting, 📊 Data Analyst,
+  ##### I’m passionate about simplifying data into impactful
+  ##### visuals and helping businesses make better decisions. 
+  ##### This project is a reflection of my journey in the DSA Incubator Hub on Excel-based analysis.
 
 ### 📫 Contact
-
 - Email: **faithamaefule@yahoo.com**
 - Phone: +234 703 083 4411
 - Github: [http://github.com/faith79-create]
